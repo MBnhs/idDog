@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/husky"
+        android:title="Husky" />
+
+    <item android:id="@+id/pug"
+        android:title="Pug" />
+
+    <item android:id="@+id/labrador"
+        android:title="Labrador" />
+
+    <item android:id="@+id/hound"
+        android:title="Hound" />
+
+</menu>
